@@ -27,3 +27,7 @@ we will need two folders
 ## Loading data into the staging folder
 
 ![alt text](<Screenshot from 2024-10-26 10-46-51.png>)
+
+## etl job 
+
+![alt text](<Screenshot from 2024-10-26 11-22-26.png>)
