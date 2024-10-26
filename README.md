@@ -22,3 +22,8 @@ we will need two folders
 ## The two folders inside the S3 buckeet
 
 ![alt text](<Screenshot from 2024-10-26 10-02-49.png>)
+
+
+## Loading data into the staging folder
+
+![alt text](<Screenshot from 2024-10-26 10-46-51.png>)
