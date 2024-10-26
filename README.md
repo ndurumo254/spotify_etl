@@ -8,3 +8,13 @@
 ## login to the IAM user
 
 ![alt text](<Screenshot from 2024-10-26 09-46-45.png>)
+
+
+## Creating S3 buckets
+
+we will need two folders
+
+- for the staging data
+- for our data ware house
+
+![alt text](<Screenshot from 2024-10-26 09-57-57.png>)
