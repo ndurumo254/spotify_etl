@@ -18,3 +18,7 @@ we will need two folders
 - for our data ware house
 
 ![alt text](<Screenshot from 2024-10-26 09-57-57.png>)
+
+## The two folders inside the S3 buckeet
+
+![alt text](<Screenshot from 2024-10-26 10-02-49.png>)
